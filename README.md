@@ -1,5 +1,5 @@
 # QA_using_spacy_and_nmslib
-Search based english Question answering model based on spacy english vectors 
+Search based English **Question Answering** model based on **Spacy** english vectors 
 
 ## Request 
 ```bash
